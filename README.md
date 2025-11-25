@@ -1,21 +1,16 @@
-# AletOkap
-À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
+# Easycook
+Savoir cuisiner est un art souvent déboucher sur une passion.Dans chaque communauté on pratique la cuisine dee différentes facons qui souvent devient une routine
+Dans la société,on distingue plusieurs types de cuisines:moderne,mixtes,traditionnelles.
+Si vous espériez savoir comment préparer un plat ou une recette,vous etes sur la meilleure app
 # Membres du groupe
-- Esther Love Prisnie Desravines
-- Exantus Jn-Noel
-- Stella Bejhina Metellus
+- Paul Jean Makens
+- Seide Mitchina
+- Betty Chery
+- Laurore Ricardo
 # User Stories
 # Must have
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
-- [x] L’utilisateur peut signaler un incident de façon anonyme(vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
-- [x] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
-- [x] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
-- [x] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
-- [x] L’utilisateur peut accéder à une page contenant les informations importantes (numéros de police, hôpital, ambulance, protection civile, etc.).
-- [x] L’utilisateur peut lire une section conseils de sécurité pour apprendre à réduire les risques.
-- [x] L’utilisateur peut lire une section decrivant l'application
-- [x] L'utilisateur peut se deconnecter de l'application
-- [ ] L'utilisateur peut supprimer son compte
+- [] 
 # Maybe
 - [x] L’utilisateur peut confirmer une alerte signalée par un autre citoyen.
 - [ ] L’utilisateur peut modifier ou supprimer ses propres alertes.
