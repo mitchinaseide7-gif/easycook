@@ -1,7 +1,7 @@
 # Easycook
 Savoir cuisiner est un art souvent déboucher sur une passion.Dans chaque communauté on pratique la cuisine dee différentes facons qui souvent devient une routine
 Dans la société,on distingue plusieurs types de cuisines:moderne,mixtes,traditionnelles.
-Si vous espériez savoir comment préparer un plat ou une recette,vous etes sur la meilleure app
+Si vous espériez savoir comment préparer un plat ou une recette,vous etes sur la meilleure app.
 # Membres du groupe
 - Paul Jean Makens
 - Seide Mitchina
@@ -10,23 +10,23 @@ Si vous espériez savoir comment préparer un plat ou une recette,vous etes sur 
 # User Stories
 # Must have
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application.
-- [] L utilisateur peut accéder au menu pour choisir la recette de son gout.
-- L utilisateur a accès au lient de l application pour pouvoir le parager à des amis.
-- L utilisateur télécharger des vidéos pour la préparation d une recette.
-- L utiliseur peut mettre en favori certaines recettes.
-- L utilisateur peut rentrer et sortir facilement sur easycook
+- [x] L utilisateur peut accéder au menu pour choisir la recette de son gout.
+- [x] L utilisateur a accès au lient de  l'application pour pouvoir le parager à des amis.
+- [x] L utilisateur télécharger des vidéos pour la préparation d une recette.
+- [x] L utiliseur peut mettre en favori certaines recettes.
+- [x] L utilisateur peut rentrer et sortir facilement sur easycook.
 # Maybe
-- [x] L’utilisateur peut confirmer si l applivation est exellente ou pas.
+- [x] L’utilisateur peut donner son avis vis à vis l' applivation .
 - [ ] L’utilisateur peut faire sa demande pour la préparation d un plat. 
-- [ ] L’utilisateur peut liker des plats si il trouve sa satisfaction.
-- [x] L’utilisateur peut avoir un profil personnel.
+- [ ] L’utilisateur peut liker des plats s'l trouve sa satisfaction.
+- [x] L’utilisateur peut changer la langue(Créolr-->français).
 - [x] L’utilisateur peut modifier son profil personnel:photo,passsword,email...
 - [ ] L'utilisateur peut voir l’historique de ses données.
 # Would be nice to have
-- [ ] L'utilisateur peut changer la langue(Creole --> Francais;).
-- [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark).
+- [ ] L'utilisateur peut .
+- [ ] L'utilis.
 - [ ] L’utilisateur peut partager une recette directement via WhatsApp, Facebook.
-- [ ] L'utilisateur peut planifier .
+- [ ]  .
 - [ ] L'utilisateur peut avoir une liste de recettes préférées.
 - [ ] L'utilisateu.
 - [ ] L’application peut .
