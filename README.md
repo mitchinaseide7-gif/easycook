@@ -32,8 +32,8 @@ Si vous espériez savoir comment préparer un plat ou une recette,vous etes sur 
 # Prototype Figma
 https://www.figma.com/design/mVJO1dFLjSHMif8yJdCrTW/Tech-2.0?node-id=0-1&t=h4gnSoMaeFiSvGrF-1
 
-<img src="Android Compact - 8.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200>
-<img src="menu sombre.png" width=200>
+<img src="Group 21.png" width=200>  <img src="Sign up.png" width=200>  <img src="Group 22.png" width=200>  <img src="Group 23.png" width=200>  <img src="Group 24.png" width=200>  <img src=La Page d'Accueil.png" width=200>  <img src="Le Menu.png" width=200>  <img src="Sign In.png" width=200>  <img src="SplqshScreen.png" width=200>
+
 
 
 
